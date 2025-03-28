@@ -19,9 +19,9 @@ public class Main{
             case "carl" -> {
                 Carl carl = new Carl();
                 switch (input.toLowerCase()) {
-                    case "name" -> carl.favoriteFood();
-                    case "food" -> carl.favoriteDrink();
-                    case "drink" -> carl.hello();
+                    case "name" -> carl.hello();
+                    case "food" -> carl.favoriteFood();
+                    case "drink" -> carl.favoriteDrink();
                     default -> System.out.println("Something went wrong");
                 }
             }
