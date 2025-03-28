@@ -1,5 +1,12 @@
 public class Linnea {
-    public void linnea() {
-        System.out.println("persika");
+    public void hello() {
+        System.out.println("Linnea");
+    }
+    public void food()
+    {
+        System.out.println("666666");
+    }
+    public void drink(){
+        System.out.println("9999999");
     }
 }
