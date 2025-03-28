@@ -7,5 +7,16 @@ public class Main{
                         "Please enter something: ");
         String input = sc.nextLine();
         System.out.println(input);
+
+        run();
+    }
+
+    public static void run(){
+        Cem cem = new Cem();
+        Lexe lexe = new Lexe();
+        Carl carl = new Carl();
+        cem.hello();
+        lexe.hello();
+        carl.hello();
     }
 }
