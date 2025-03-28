@@ -4,6 +4,8 @@ public class Carl {
 
     public Carl() {
         hello();
+        favoriteFood();
+        favoriteDrink();
     }
     public void hello() {
         System.out.println("Hello, I am Carl.");
