@@ -15,10 +15,10 @@ public class Main{
             Carl carl = new Carl();
         } else if(input.equals("Lexe")) {
             Lexe lexe = new Lexe();
-            lexe.hello();
         } else if(input.equals("Cem")) {
             Cem cem = new Cem();
-            cem.hello();
+        } else if (input.equals("Linnea")) {
+            Linnea linnea = new Linnea();
         } else{
             System.out.println("Something went wrong");
         }

@@ -1,4 +1,11 @@
 public class Cem {
+
+    public Cem() {
+        hello();
+        food();
+        drink();
+    }
+
     public void hello(){
         System.out.println("yes test skitbra");
     }
