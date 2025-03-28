@@ -1,5 +1,5 @@
 public class Lexe {
-    public void lex() {
+    public void hello() {
         System.out.println("Lexe was here!");
     }
 }
