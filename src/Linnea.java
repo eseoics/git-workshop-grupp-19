@@ -1,9 +1,7 @@
 public class Linnea {
 
     public Linnea() {
-        hello();
-        food();
-        drink();
+
     }
 
     public void hello() {
