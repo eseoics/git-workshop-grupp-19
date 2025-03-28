@@ -1,9 +1,4 @@
 public class Linnea {
-
-    public Linnea() {
-
-    }
-
     public void hello() {
         System.out.println("Linnea");
     }
@@ -13,5 +8,6 @@ public class Linnea {
     }
     public void drink(){
         System.out.println("9999999");
+
     }
 }
