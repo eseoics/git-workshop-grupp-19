@@ -1,10 +1,5 @@
 public class Linnea {
-    public void food() {
+    public void linnea() {
         System.out.println("66666");
     }
-
-    public void drink(){
-        System.out.println("99999")
-    }
 }
-
