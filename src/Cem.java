@@ -4,5 +4,8 @@ public class Cem {
     }
     public void food(){
         System.out.println("mat");
-    }   
+    }
+    public void drink(){
+        System.out.println("vatten");
+    }      
 }
