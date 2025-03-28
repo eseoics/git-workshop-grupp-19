@@ -1,5 +1,5 @@
 public class Linnea {
     public void linnea() {
-        System.out.println("persika");
+        System.out.println("66666");
     }
 }
