@@ -6,4 +6,8 @@ public class Lexe {
     public void food(){
         System.out.println("My favourite food is burritos.");
     }
+
+    public void drink(){
+        System.out.println("My favourite drink is mango jarritos.");
+    }
 }
