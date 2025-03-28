@@ -1,5 +1,5 @@
 public class cem {
-    public void cem(){
+    public cem(){
         System.out.println("yes test skitbra");
     }
     
