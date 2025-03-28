@@ -1,4 +1,5 @@
 public class Linnea {
+    public void hello() {
         System.out.println("Linnea");
     }
     public void food()

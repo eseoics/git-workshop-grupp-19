@@ -1,8 +1,6 @@
 public class Lexe {
     public Lexe() {
-        hello();
-        food();
-        drink();
+
     }
     public void hello() {
         System.out.println("Lexe was here!");

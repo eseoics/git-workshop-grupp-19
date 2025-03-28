@@ -1,9 +1,7 @@
 public class Cem {
 
     public Cem() {
-        hello();
-        food();
-        drink();
+
     }
 
     public void hello(){
