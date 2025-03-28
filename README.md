@@ -1,4 +1,2 @@
 # git-workshop-grupp-19
-test :)
-hej
-Lexe was here
+Vi behöver rapportera Carl och IntelliJ till HR för diskriminering.
